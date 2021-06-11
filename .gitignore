@@ -1,0 +1,10 @@
+.idea/*
+.idea/workspace.xml
+cookbook/__pycache__/*
+keepmyrecipes/__pycache__/*
+venv/*
+.spotify_caches/*
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
