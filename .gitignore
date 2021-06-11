@@ -1,6 +1,7 @@
 .idea/*
 .idea/workspace.xml
 cookbook/__pycache__/*
+cookbook/migrations/__pycache__/*
 keepmyrecipes/__pycache__/*
 venv/*
 .spotify_caches/*
